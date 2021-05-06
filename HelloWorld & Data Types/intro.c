@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* açıklama satırları */
+/* aÃ§Ä±klama satÄ±rlarÄ± */
 
 int main (){
 	
@@ -13,7 +13,7 @@ int main (){
 	/* 
 	int , char , const , double , float , long , short , ...
 	
-	DEYİMLER: break, continue, default, do
+	DEYÃMLER: break, continue, default, do
 	
 	BELLEK SINIFI: for, while, goto, if, return, ... 
 	*/
