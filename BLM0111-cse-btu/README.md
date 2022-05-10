@@ -10,11 +10,13 @@ Algorithms and Programming Lecture laboratory studies in C language of Bursa Tec
 ### BTU Computer Engineering 2020-2021 Fall Semester 
 <ol> BLM0111 Algorithms and Programming Course Instructors; 
   <li> Ph.D Ergün GÜMÜŞ (Lecturer) </li>
-  <li> Research Assistant Ahmet KAŞİF </li>
   <li> Research Assistant Esma İBİŞ </li>
   <li> Research Assistant Muhammed Ömer Faruk SELVİ </li>
+</ol>
+
+<ol> Contributors to Algorithms and Programming Codes; 
+  <li> Research Assistant Ahmet KAŞİF </li>
   <li> Research Assistant Sena Dikici </li>
-  
 </ol>
 
 ***
@@ -30,9 +32,11 @@ Bursa Teknik Üniversitesi'nin Algoritmalar ve Programlama Dersi laboratuvar uyg
 ### BTÜ Bilgisayar Mühendisliği 2020-2021 Güz Dönemi 
 <ol> BLM0111 Algoritmalar ve Programlama Dersi Ders Sorumluları;
    <li> Dr. Öğr. Üyesi Ergün GÜMÜŞ </li>
-   <li> Arş. Gör. Ahmet KAŞİF </li>
    <li> Arş. Gör. Esma İBİŞ </li>
    <li> Arş. Gör. Muhammed Ömer Faruk SELVİ </li>
-   <li> Arş. Gör. Sena Dikici </li>
-  
+</ol>
+
+<ol> Algoritmalar ve Programlama Dersi Uygulama Kodlarına Katkı Sağlayanlar;
+   <li> Arş. Gör. Ahmet KAŞİF </li>
+   <li> Arş. Gör. Sena Dikici </li>  
 </ol>
